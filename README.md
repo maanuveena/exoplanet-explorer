@@ -30,3 +30,8 @@ NASA Exoplanet Archive: https://exoplanetarchive.ipac.caltech.edu/
 Project Goal
 
 To analyze real exoplanet data, visualize patterns, and develop practical Python data analysis skills.
+🚀 Live Demo
+
+Try the Exoplanet Explorer app here:
+
+https://exoplanet-explorer-manasa.streamlit.app/#exoplanet-explorer
